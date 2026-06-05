@@ -2,7 +2,7 @@
 
 I'm a civil engineering student (Just graduated BSc studies @ EPFL + KTH exchange) with a growing interest in transport infrastructure and spatial data analysis.
 
-I use these projects to get back into Python seriously and explore how open data can be used to understand urban mobility systems — starting with Paris, and expanding to the other cities I've lived in.
+I use these projects to get back into Python seriously and explore how open data can be used to understand urban mobility systems, starting with Paris, and expanding to the other cities I've lived in.
 
 ## Projects
 
