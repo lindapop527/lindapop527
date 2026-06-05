@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Linda 👋
 
-<!--
-**lindapop527/lindapop527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a civil engineering student (Just graduated BSc studies @ EPFL + KTH exchange) with a growing interest in transport infrastructure and spatial data analysis.
 
-Here are some ideas to get you started:
+I use these projects to get back into Python seriously and explore how open data can be used to understand urban mobility systems — starting with Paris, and expanding to the other cities I've lived in.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **[tc-frequency-simulator](https://github.com/lindapop527/tc-frequency-simulator)** 
+  — Exploratory analysis of the Île-de-France public transport network using GTFS data.   Includes a case study on whether Solidays 2026 left a detectable footprint in scheduled metro and Noctilien services.
+
+## Currently learning
+
+Python for data analysis · QGIS · Transport network modelling · German (goal: B2 level)
+
+## Languages & tools
+
+`Python` · `pandas` · `matplotlib` · `folium` · `Jupyter` · `Git`
